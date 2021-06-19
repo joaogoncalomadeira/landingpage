@@ -1,0 +1,54 @@
+body {
+	text-align: center;
+	font-family:  Oracle Sans;
+	background-image: url(imagens/joao1.png) ;
+	color: white;
+	background-size: cover;
+
+} 
+
+h1 {
+	font-size: 70px;
+	padding: 300px 0 0 0;
+	text-shadow: 2px 2px 2px lightgrey;
+	margin-bottom:  15px;
+}
+
+p {
+	font-size: 25px;
+	opacity: 0.8;
+}
+
+.segundo-paragrafo {
+	margin-bottom: 60px;
+}
+
+.botao {
+	color: white;
+	text-decoration: none;
+	background-color: rgb(128,128,128);
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;
+	font-size: 20px;
+}
+
+.botao:hover {
+	background-color: rgba(128,128,128,0.5);
+}
+
+.lista {
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 40px;
+}
+
+.lista li {
+	display: inline;
+}
+
+.lista a {
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 30px;
+}
